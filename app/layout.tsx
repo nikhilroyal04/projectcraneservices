@@ -26,6 +26,7 @@ export const metadata: Metadata = {
     email: true,
     url: true,
   },
+
   metadataBase: new URL("https://projectcraneservices.com"),
   alternates: {
     canonical: "/",
@@ -34,6 +35,7 @@ export const metadata: Metadata = {
       ar: "/ar",
     },
   },
+  
   openGraph: {
     title: "PROJECT CRANE SERVICES | Specialist in Heavy Lifting",
     description:
